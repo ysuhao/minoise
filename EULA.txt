@@ -1,0 +1,23 @@
+minoise End User License Agreement
+Copyright (c) 2026 YUSUHAO (Mint Ryu). All rights reserved.
+
+By installing or using minoise ("the Software") you accept this agreement. If you do not accept it, do not install or use the Software.
+
+1. License. You receive a free, personal, non-exclusive, non-transferable license to install and use the Software for non-commercial purposes only. Non-commercial purposes are personal use, education, and academic or scientific research, including publishing measurements or results obtained with the Software, with citation of the Software.
+
+2. No commercial use. You may not use the Software, or audio processed with it, in exchange for payment or for the commercial benefit of any business, including paid audio work, commercial broadcasts or productions, products or services, and the training of commercial systems. A commercial license requires prior written permission from the copyright holder.
+
+3. Restrictions. Except as allowed by law that cannot be waived by contract, you may not: (a) reverse engineer, decompile or disassemble the Software; (b) extract, decrypt, copy or reuse any model, weight, coefficient or other data contained in the Software; (c) modify the Software or create derivative works; (d) circumvent its integrity or protection measures; (e) redistribute, sell, rent, lend, host or publish the Software or any part of it. Share the official download link instead.
+
+4. Ownership. The Software is licensed, not sold. All rights not expressly granted are reserved. "minoise", "Mintaria" and "Mint Ryu" may not be used for other products without permission.
+
+5. Third-party components. The Software includes third-party components under their own licenses, listed in THIRD_PARTY_NOTICES.txt. Nothing in this agreement limits rights those licenses give you for those components.
+
+6. No warranty. THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT.
+
+7. Limitation of liability. To the extent permitted by law, the copyright holder is not liable for any damages arising from the use of or inability to use the Software, including loss of audio, data or profit.
+
+8. Termination. This license ends automatically if you breach it. On termination you must stop using the Software and delete all copies.
+
+Chinese summary (the English text above governs):
+minoise 免费，仅限个人、教学和学术研究等非商业用途，可发表用本软件得到的研究结果并注明软件。禁止商用，禁止逆向工程，禁止提取模型或系数，禁止修改、破解和再分发。商业授权需事先获得书面许可。软件按现状提供，不作任何担保。
